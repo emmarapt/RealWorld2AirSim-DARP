@@ -4,6 +4,7 @@ import argparse
 import random
 import numpy as np
 import cProfile
+from airlearning_runner import run_airlearning
 from airsim_runner import run_airsim
 from real_world_parameter_parser import real_world
 from RealWorld.handleGeo.GridPathsToNED import GridPathsToNED
@@ -17,7 +18,7 @@ from darp_x_optuna import optimize
 from DARP.multiRobotPathPlanner import MultiRobotPathPlanner
 
 
-def run_experiment(optimal_init_pos, number_of_trials, AirSim):
+def run_experiment(optimal_init_pos, number_of_trials, AirSim, AirLearning):
     real_world_parameters = real_world()
     real_world_parameters.geo2cart()
     rows, cols, obstacles_positions = real_world_parameters.get_DARP_params()
@@ -28,18 +29,11 @@ def run_experiment(optimal_init_pos, number_of_trials, AirSim):
 
         optimization.optimize()
 
-        FinalPaths = optimization.best_trial.best_case.paths
-        initial_positions = optimization.best_trial.darp_instance.initial_positions
-
-        NEDdata = GridPathsToNED(FinalPaths, initial_positions, real_world_parameters.droneNo,
-                                 real_world_parameters.subNodes, real_world_parameters.rotate)
-
+        NEDdata = GridPathsToNED(optimal_init_pos, optimization, real_world_parameters.droneNo, real_world_parameters.subNodes, real_world_parameters.rotate)
         init_posNED = NEDdata.init_posGRIDToNED()
-        WaypointsNED = NEDdata.getWaypointsNED()
 
-        # """ Visualize NED Paths """
-        PlotNEDPaths(real_world_parameters.NED_Coords, real_world_parameters.obstNED, real_world_parameters.droneNo,
-                     WaypointsNED, init_posNED, optimal_init_pos).plot()
+        # WaypointsNED are in the form of WaypointsNED[DroneNo][0]
+        WaypointsNED = NEDdata.getWaypointsNED()
 
     else:  # Runs with random init pos !!
 
@@ -49,7 +43,6 @@ def run_experiment(optimal_init_pos, number_of_trials, AirSim):
         count = 0
         while True:
             print("\n!!! DARP will run for random initial positions !!! ")
-
             grid = np.arange(0, rows * cols).reshape(rows, cols)
 
             DARPgrid = initializeDARPGrid(randomInitPos, rows, cols, real_world_parameters.initial_positions,
@@ -83,21 +76,24 @@ def run_experiment(optimal_init_pos, number_of_trials, AirSim):
             print("Given area")
             exit()
         else:
-            FinalPaths = poly.best_case.paths
-            initial_positions = poly.darp_instance.initial_positions
 
-            NEDdata = GridPathsToNED(FinalPaths, initial_positions, real_world_parameters.droneNo,
+            NEDdata = GridPathsToNED(optimal_init_pos, poly, real_world_parameters.droneNo,
                                      real_world_parameters.subNodes, real_world_parameters.rotate)
 
             init_posNED = NEDdata.init_posGRIDToNED()
             WaypointsNED = NEDdata.getWaypointsNED()
 
-            # """ Visualize NED Paths """
-            PlotNEDPaths(real_world_parameters.NED_Coords, real_world_parameters.obstNED, real_world_parameters.droneNo,
-                         WaypointsNED, init_posNED, optimal_init_pos).plot()
+    # """ Visualize NED Paths """
+    PlotNEDPaths(real_world_parameters.NED_Coords, real_world_parameters.obstNED, real_world_parameters.droneNo,
+                 WaypointsNED, init_posNED, optimal_init_pos).plot()
 
+
+    # Choose your simulator ..
     if AirSim:
         run_airsim(real_world_parameters, init_posNED, WaypointsNED)
+
+    elif AirLearning:
+        run_airlearning(real_world_parameters, init_posNED, WaypointsNED)
 
 
 def initializeDARPGrid(randomInitPos, l, m, initialPos, megaNodes, theta, shiftX, shiftY, droneNo):
@@ -161,7 +157,11 @@ if __name__ == '__main__':
         '-AirSim',
         action='store_true',
         help='Run Simulation Using AirSim')
+    argparser.add_argument(
+        '-AirLearning',
+        action='store_true',
+        help='Run Simulation Using AirLearning-UE4')
 
     args = argparser.parse_args()
-    run_experiment(args.optimization, args.number_of_trials, args.AirSim)
+    run_experiment(args.optimization, args.number_of_trials, args.AirSim, args.AirLearning)
 # cProfile.run('run_experiment(args.optimization, args.AirSim)', sort='tottime')

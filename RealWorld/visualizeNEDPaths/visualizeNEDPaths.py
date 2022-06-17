@@ -45,27 +45,19 @@ class PlotNEDPaths:
 		x_init_pos = [[] for _ in range(self.droneNo)]
 		y_init_pos = [[] for _ in range(self.droneNo)]
 
-		# for i in range(self.droneNo):
-		# 	#if self.optuna:
-		# 	x_init_pos[i].append(self.init_posNED[i][1])
-		# 	y_init_pos[i].append(self.init_posNED[i][0])
-		# 	for j in range(len(self.missionWaypointsNED[i][0])):
-		# 		#for k in range(len(self.missionWaypointsNED[i][j])):
-		# 			#for l in range(len(self.missionWaypointsNED[i][j][k])):
-		# 				x[i].append(self.missionWaypointsNED[i][0][j][1])
-		# 				y[i].append(self.missionWaypointsNED[i][0][j][0])
-		
 		for i in range(self.droneNo):
+			#if self.optuna:
 			x_init_pos[i].append(self.init_posNED[i][1])
 			y_init_pos[i].append(self.init_posNED[i][0])
-			
-			for j in range(len(self.missionWaypointsNED[i])):
-				x[i].append(self.missionWaypointsNED[i][j][1])
-				y[i].append(self.missionWaypointsNED[i][j][0])						
+			for j in range(len(self.missionWaypointsNED[i][0])):
+				#for k in range(len(self.missionWaypointsNED[i][j])):
+					#for l in range(len(self.missionWaypointsNED[i][j][k])):
+						x[i].append(self.missionWaypointsNED[i][0][j][1])
+						y[i].append(self.missionWaypointsNED[i][0][j][0])
 
 		# plot path for each robot + init_pos
 		for i in range(self.droneNo):
-			plt.plot(x[i], y[i])
+			plt.plot(x[i], y[i], label = 'Drone{}'.format(i + 1))
 			plt.scatter(x[i], y[i])
 			plt.scatter(x_init_pos[i], y_init_pos[i], color='red')
 
@@ -81,6 +73,8 @@ class PlotNEDPaths:
 		else:
 			plt.title("Random Initial Positions")
 
+		#plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
+		plt.legend(loc='upper left')
 		# Merge all in one figure
 		plt.show()
 
