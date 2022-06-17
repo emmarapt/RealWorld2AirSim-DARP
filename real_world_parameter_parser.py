@@ -117,7 +117,7 @@ class real_world:
             self.droneNo = megaNodesIn
 
     def get_DARP_params(self):
-        # DARP parameters (line 107 at DARPinPOLY.java)
+        # DARP parameters
         rows = len(self.megaNodes)
         cols = len(self.megaNodes[0])
 
