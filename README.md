@@ -22,7 +22,7 @@ The algorithm receives as input the following:
 
 As an output, the algorithm provides set of waypoints (path), for each vehicle involved in the mission, in order to cooperatively completely cover the ROI.
 
-## How to use
+## How to run:
 Inputvariables_choosepath.json countains input paramaters with the same order described above.
 
 In a terminal navigate to \RealWorld2AirSim-DARP and run:
@@ -35,6 +35,8 @@ python main.py
 
 In this way, the module will provide and visualize coverage paths according to the input variables included in the JSON file.
 
+![](https://github.com/emmarapt/RealWorld2AirSim-DARP/blob/122aa9e8e71ea13ba61543f5fa953488363abdb7/images/Random_Initial_Positions.png)
+
 ### 2nd
 
 ```
@@ -42,6 +44,9 @@ python main.py -optimization
 ```
 
 In this way, the module will provide and visualize coverage paths according to the input variables included in the JSON file by utilizing the [DARP_Optimal_Initial_Positions](https://github.com/alice-st/DARP_Optimal_Initial_Positions/tree/main) submodule to provide optimal initial positions for the available robots/vehicles.
+
+
+![](https://github.com/emmarapt/RealWorld2AirSim-DARP/blob/122aa9e8e71ea13ba61543f5fa953488363abdb7/images/Optimal_Initial_Positions.png)
 
 In case you change the number of trials that the optimization will run for, please run:
 
