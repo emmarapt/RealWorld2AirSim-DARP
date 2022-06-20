@@ -1,0 +1,3 @@
+Overall distance traveled for Drone1 is 489.5660705566406 meters
+Overall distance traveled for Drone3 is 715.1296997070312 meters
+Overall distance traveled for Drone2 is 923.9525756835938 meters

@@ -3,8 +3,7 @@
 from simulation_world_parameter_parser import simulation_world
 import sys
 
-#sys.path.append("D:\\airlearning-ue4\AirSim\PythonClient\multirotor")
-#import setup_path
+sys.path.append("D:\\airlearning-ue4\AirSim\PythonClient")
 import airsim
 import threading
 import numpy as np
@@ -14,7 +13,8 @@ import time
 def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
     """AirLearning-UE4 does not provide simAddVehicle API - Add manually the number of drones """
     # connect to Drone client
-    client = airsim.MultirotorClient()
+    # client = airsim.MultirotorClient()
+    client = airsim.MultirotorClient(ip="127.0.0.1")
     client.confirmConnection()
 
     # enable Drone1 - default drone when opening AirSim
@@ -36,7 +36,6 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
         getdata = client.getMultirotorState(DroneName)
         # time.sleep(0.1)  # sleep to avoid BufferError
         return getdata
-
 
     class Thread_class(threading.Thread):
         def __init__(self, running):
@@ -79,7 +78,6 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
                         """ -------------------------- Get Trip status -------------------------- """
                         get_Trip_Stats = client.getTripStats('Drone{}'.format(i + 1))
 
-
                         # get_time = client.getMultirotorState('Drone{}'.format(i + 1))
                         end_date_time = datetime.fromtimestamp(getpose.timestamp // 1000000000)
                         print('Last WP !! --- Drone{} ends its path at {} ---'.format(i + 1,
@@ -90,7 +88,8 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
 
                         # write execution time in .txt
                         simulation_world_parameters.file_exec_time.write(
-                            ''.join('Overall execution time for Drone{} is {} sec'.format(i + 1, get_Trip_Stats.flight_time)))
+                            ''.join('Overall execution time for Drone{} is {} sec'.format(i + 1,
+                                                                                          get_Trip_Stats.flight_time)))
                         simulation_world_parameters.file_exec_time.write(''.join('\n'))
 
                         simulation_world_parameters.file_power_consumed.write(
@@ -102,7 +101,6 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
                             'Overall distance traveled for Drone{} is {} meters'.format(i + 1,
                                                                                         get_Trip_Stats.distance_traveled)))
                         simulation_world_parameters.file_distance_traveled.write(''.join('\n'))
-
 
                     if ned_dist < corner_radius:  # Corner Radius MODE
                         resulting_path = client.moveOnPathAsync(path_drone[i], 1, 500,
@@ -170,7 +168,6 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
                 ned_dist = np.linalg.norm(current_ned - nextWP_ned)
 
                 if ned_dist < distance_threshold:
-
                     del path_drone[i][0]
                     movetopath_status[i] = True
 
@@ -205,7 +202,7 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
                 onpath = not all(moveonpath_status)
 
     time.sleep(0.5)
-    #Thread_class(False)
+    # Thread_class(False)
     print('\n')
     # END
     # airsim.wait_key('Press any key to reset to original state')

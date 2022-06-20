@@ -2,6 +2,7 @@ import os
 
 """Class for simulation worlds parameter parser"""
 
+
 class simulation_world:
     def __init__(self):
         self.simulation_world_parameters()

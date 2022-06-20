@@ -1,0 +1,3 @@
+Overall energy consumption for Drone1 is 137438.3125 watt
+Overall energy consumption for Drone3 is 166391.21875 watt
+Overall energy consumption for Drone2 is 228084.5 watt
