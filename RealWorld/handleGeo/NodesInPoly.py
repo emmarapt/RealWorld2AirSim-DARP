@@ -6,6 +6,10 @@ import math
 from numba import njit
 
 
+@njit
+def count_non_zero(np_arr):
+    return len(np.nonzero(np_arr)[0])
+
 class NodesInPoly(object):
 
     def __init__(self, cartCoords, cartObst, scanDist, pathsStrictlyInPoly, hideInfo, shiftX, shiftY):
@@ -13,12 +17,10 @@ class NodesInPoly(object):
         self.scanDist = scanDist
         self.pathsStrictlyInPoly = pathsStrictlyInPoly
         self.hideInfo = hideInfo
-
-        self.cartObst = np.array(cartObst)
-        # if len(cartObst) ==0:
-        #     self.cartObst = [np.complex64(x) for x in range(0)]
-        # else:
-        #self.cartObst = cartObst
+        if len(cartObst)==0:
+            self.cartObst = np.zeros((1,4,2))
+        else:
+            self.cartObst = np.array(cartObst)
 
         self.shiftX = shiftX
         self.shiftY = shiftY
@@ -104,7 +106,7 @@ class NodesInPoly(object):
                                                                                  megaNodesCount)
 
                 else:
-                    megaNodes[i][j][2] = 1 # Obstacle
+                    megaNodes[i][j][2] = 1  # Obstacle
 
                 subNodes[2 * i][2 * j + 1][2] = megaNodes[i][j][2]
                 subNodes[2 * i + 1][2 * j + 1][2] = megaNodes[i][j][2]
@@ -189,19 +191,19 @@ class NodesInPoly(object):
     @staticmethod
     @njit()
     def checkInPolyAndObstacle(i, j, subNodes, megaNodes, cartObst, megaNodesCount):
-        # if len(cartObst) > 0:
-        #     for k in range(len(cartObst)):
-        #         if InPolygon.check([subNodes[2 * i][2 * j + 1][0], subNodes[2 * i][2 * j + 1][1]],
-        #                            cartObst[k]) or InPolygon.check(
-        #             [subNodes[2 * i + 1][2 * j + 1][0], subNodes[2 * i + 1][2 * j + 1][1]],
-        #             cartObst[k]) or InPolygon.check(
-        #             [subNodes[2 * i][2 * j][0], subNodes[2 * i][2 * j][1]],
-        #             cartObst[k]) or InPolygon.check(
-        #             [subNodes[2 * i + 1][2 * j][0], subNodes[2 * i + 1][2 * j][1]], cartObst[k]):
-        #             megaNodes[i][j][2] = 1
-        #         elif megaNodes[i][j][2] != 1:
-        #             megaNodes[i][j][2] = 0
-        #             megaNodesCount += 1
+        if count_non_zero(cartObst.ravel()) != 0:
+            for k in range(len(cartObst)):
+                if InPolygon.check([subNodes[2 * i][2 * j + 1][0], subNodes[2 * i][2 * j + 1][1]],
+                                   cartObst[k]) or InPolygon.check(
+                    [subNodes[2 * i + 1][2 * j + 1][0], subNodes[2 * i + 1][2 * j + 1][1]],
+                    cartObst[k]) or InPolygon.check(
+                    [subNodes[2 * i][2 * j][0], subNodes[2 * i][2 * j][1]],
+                    cartObst[k]) or InPolygon.check(
+                    [subNodes[2 * i + 1][2 * j][0], subNodes[2 * i + 1][2 * j][1]], cartObst[k]):
+                    megaNodes[i][j][2] = 1
+                elif megaNodes[i][j][2] != 1:
+                    megaNodes[i][j][2] = 0
+                    megaNodesCount += 1
 
         if megaNodes[i][j][2] != 1:
             megaNodes[i][j][2] = 0  # free space
