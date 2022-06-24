@@ -46,7 +46,7 @@ python main.py -optimization
 In this way, the module will provide and visualize coverage paths according to the input variables included in the JSON file by utilizing the [DARP_Optimal_Initial_Positions](https://github.com/alice-st/DARP_Optimal_Initial_Positions/tree/main) submodule to provide optimal initial positions for the available robots/vehicles.
 
 
-![](https://github.com/emmarapt/RealWorld2AirSim-DARP/blob/122aa9e8e71ea13ba61543f5fa953488363abdb7/images/Optimal_Initial_Positions.png)
+![](https://github.com/emmarapt/RealWorld2AirSim-DARP/blob/main/images/Optimal_Initial_Positions.png)
 
 In case you change the number of trials that the optimization will run for, please run:
 
