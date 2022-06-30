@@ -129,8 +129,10 @@ def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
 
     for i in range(real_world_parameters.droneNo):
         init_pos_drone.append(airsim.Vector3r(init_posNED[i][0], init_posNED[i][1], -real_world_parameters.altitude))
-        for j in range(len(WaypointsNED[i][0])):
-            path_drone[i].append(airsim.Vector3r(WaypointsNED[i][0][j][0], WaypointsNED[i][0][j][1], z))
+        #for j in range(len(WaypointsNED[i][0])):
+        for j in range(len(WaypointsNED[i])):
+            #path_drone[i].append(airsim.Vector3r(WaypointsNED[i][0][j][0], WaypointsNED[i][0][j][1], z))
+            path_drone[i].append(airsim.Vector3r(WaypointsNED[i][j][0], WaypointsNED[i][j][1], z))
 
     # # Visualize waypoints
     """ Press T for path visualization"""

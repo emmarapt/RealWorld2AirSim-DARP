@@ -29,7 +29,14 @@ def run_experiment(optimal_init_pos, number_of_trials, AirSim, AirLearning):
 
         optimization.optimize()
 
-        NEDdata = GridPathsToNED(optimal_init_pos, optimization, real_world_parameters.droneNo, real_world_parameters.subNodes, real_world_parameters.rotate)
+        FinalPaths = optimization.best_trial.best_case.paths
+        initial_positions = optimization.best_trial.darp_instance.initial_positions
+
+
+        NEDdata = GridPathsToNED(FinalPaths, initial_positions, real_world_parameters.droneNo,
+                                 real_world_parameters.subNodes, real_world_parameters.rotate)
+
+        #NEDdata = GridPathsToNED(optimal_init_pos, optimization, real_world_parameters.droneNo, real_world_parameters.subNodes, real_world_parameters.rotate)
         init_posNED = NEDdata.init_posGRIDToNED()
 
         # WaypointsNED are in the form of WaypointsNED[DroneNo][0]
@@ -77,8 +84,14 @@ def run_experiment(optimal_init_pos, number_of_trials, AirSim, AirLearning):
             exit()
         else:
 
-            NEDdata = GridPathsToNED(optimal_init_pos, poly, real_world_parameters.droneNo,
+
+            FinalPaths = poly.best_case.paths
+            initial_positions = poly.darp_instance.initial_positions
+
+            NEDdata = GridPathsToNED(FinalPaths, initial_positions, real_world_parameters.droneNo,
                                      real_world_parameters.subNodes, real_world_parameters.rotate)
+            # NEDdata = GridPathsToNED(optimal_init_pos, poly, real_world_parameters.droneNo,
+            #                          real_world_parameters.subNodes, real_world_parameters.rotate)
 
             init_posNED = NEDdata.init_posGRIDToNED()
             WaypointsNED = NEDdata.getWaypointsNED()
@@ -151,7 +164,7 @@ if __name__ == '__main__':
     argparser.add_argument(
         '-number_of_trials',
         type=int,
-        default=20,
+        default=1000,
         help='Number of trials that the optimization will run for.')
     argparser.add_argument(
         '-AirSim',

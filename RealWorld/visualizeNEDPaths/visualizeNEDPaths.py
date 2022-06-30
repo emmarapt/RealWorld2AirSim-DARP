@@ -15,7 +15,8 @@ class PlotNEDPaths:
 
 	def plot(self):
 
-		plt.figure()
+		fig = plt.figure()
+		ax = fig.add_subplot(111)
 
 		polyx = []
 		polyy = []
@@ -46,14 +47,15 @@ class PlotNEDPaths:
 		y_init_pos = [[] for _ in range(self.droneNo)]
 
 		for i in range(self.droneNo):
-			#if self.optuna:
 			x_init_pos[i].append(self.init_posNED[i][1])
 			y_init_pos[i].append(self.init_posNED[i][0])
-			for j in range(len(self.missionWaypointsNED[i][0])):
-				#for k in range(len(self.missionWaypointsNED[i][j])):
-					#for l in range(len(self.missionWaypointsNED[i][j][k])):
-						x[i].append(self.missionWaypointsNED[i][0][j][1])
-						y[i].append(self.missionWaypointsNED[i][0][j][0])
+
+			#for j in range(len(self.missionWaypointsNED[i][0])):
+				#x[i].append(self.missionWaypointsNED[i][0][j][1])
+				#y[i].append(self.missionWaypointsNED[i][0][j][0])
+			for j in range(len(self.missionWaypointsNED[i])):
+				x[i].append(self.missionWaypointsNED[i][j][1])
+				y[i].append(self.missionWaypointsNED[i][j][0])
 
 		# plot path for each robot + init_pos
 		for i in range(self.droneNo):
@@ -73,8 +75,12 @@ class PlotNEDPaths:
 		else:
 			plt.title("Random Initial Positions")
 
-		#plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
+		# plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
 		plt.legend(loc='upper left')
+
+
+		ax.set_aspect('equal', adjustable='box')
+
 		# Merge all in one figure
 		plt.show()
 
