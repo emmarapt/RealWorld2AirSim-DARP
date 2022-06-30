@@ -1,3 +1,3 @@
-Overall execution time for Drone1 is 263.3486328125 sec
-Overall execution time for Drone3 is 315.6787414550781 sec
-Overall execution time for Drone2 is 449.3315734863281 sec
+Overall execution time for Drone1 is 106.13026428222656 sec
+Overall execution time for Drone3 is 156.6453399658203 sec
+Overall execution time for Drone2 is 196.74119567871094 sec

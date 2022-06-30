@@ -76,7 +76,8 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
 
                     if len(path_drone[i]) == 0:
                         """ -------------------------- Get Trip status -------------------------- """
-                        get_Trip_Stats = client.getTripStats('Drone{}'.format(i + 1))
+                        get_Trip_Stats_end_path = client.getTripStats('Drone{}'.format(i + 1))
+
 
                         # get_time = client.getMultirotorState('Drone{}'.format(i + 1))
                         end_date_time = datetime.fromtimestamp(getpose.timestamp // 1000000000)
@@ -89,17 +90,17 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
                         # write execution time in .txt
                         simulation_world_parameters.file_exec_time.write(
                             ''.join('Overall execution time for Drone{} is {} sec'.format(i + 1,
-                                                                                          get_Trip_Stats.flight_time)))
+                                                                                          get_Trip_Stats_end_path.flight_time - get_Trip_Stats_start_path.flight_time)))
                         simulation_world_parameters.file_exec_time.write(''.join('\n'))
 
                         simulation_world_parameters.file_power_consumed.write(
                             ''.join('Overall energy consumption for Drone{} is {} watt'.format(i + 1,
-                                                                                               get_Trip_Stats.energy_consumed)))
+                                                                                               get_Trip_Stats_end_path.energy_consumed - get_Trip_Stats_start_path.energy_consumed)))
                         simulation_world_parameters.file_power_consumed.write(''.join('\n'))
 
                         simulation_world_parameters.file_distance_traveled.write(''.join(
                             'Overall distance traveled for Drone{} is {} meters'.format(i + 1,
-                                                                                        get_Trip_Stats.distance_traveled)))
+                                                                                        get_Trip_Stats_end_path.distance_traveled - get_Trip_Stats_start_path.distance_traveled)))
                         simulation_world_parameters.file_distance_traveled.write(''.join('\n'))
 
                     if ned_dist < corner_radius:  # Corner Radius MODE
@@ -128,9 +129,11 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
 
     for i in range(real_world_parameters.droneNo):
         init_pos_drone.append(airsim.Vector3r(init_posNED[i][0], init_posNED[i][1], -real_world_parameters.altitude))
-        for j in range(len(WaypointsNED[i][0])):
+        for j in range(len(WaypointsNED[i])):
             # path_No1.append(airsim.Vector3r(WaypointsNED[0][0][i][0] - 120, WaypointsNED[0][0][i][1] - 70, z))
-            path_drone[i].append(airsim.Vector3r(WaypointsNED[i][0][j][0], WaypointsNED[i][0][j][1], z))
+            #path_drone[i].append(airsim.Vector3r(WaypointsNED[i][0][j][0], WaypointsNED[i][0][j][1], z))
+            path_drone[i].append(airsim.Vector3r(WaypointsNED[i][j][0], WaypointsNED[i][j][1], z))
+
 
     airsim.wait_key('Press any key to takeoff')
     for i in range(real_world_parameters.droneNo):
@@ -189,6 +192,8 @@ def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
         start_date_time = datetime.fromtimestamp(get_time.timestamp // 1000000000)
         print(" --- First WP !! --- Drone{} starts to follow the path at {} ---".format(i + 1,
                                                                                         start_date_time))
+
+        get_Trip_Stats_start_path = client.getTripStats('Drone{}'.format(i + 1))
 
     # Start Thread for updating the path -- Background process
     Thread_class(True)
