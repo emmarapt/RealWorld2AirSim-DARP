@@ -59,15 +59,16 @@ class PlotNEDPaths:
 
 		# plot path for each robot + init_pos
 		for i in range(self.droneNo):
-			plt.plot(x[i], y[i], label = 'Drone{}'.format(i + 1))
-			plt.scatter(x[i], y[i])
+			plt.plot(x[i], y[i], label='Drone{}'.format(i + 1))
+			# plt.plot(x[i], y[i], label = '', color='steelblue')#'Drone{}'.format(i + 1))
+			# plt.scatter(x[i], y[i], color='red')
 			plt.scatter(x_init_pos[i], y_init_pos[i], color='red')
 
 		# plot polygon
-		plt.plot(polyx, polyy, '--', color='black')
+		plt.plot(polyx, polyy, '--', color='black', linewidth=1)
 		# plot Obstacle polygon
 		if len(self.cartObst) > 0:
-			plt.plot(obstx, obsty, '--', color='red')
+			plt.plot(obstx, obsty, '--', color='black')
 
 
 		if self.optuna:
@@ -76,11 +77,12 @@ class PlotNEDPaths:
 			plt.title("Random Initial Positions")
 
 		# plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
-		plt.legend(loc='upper left')
-
+		#plt.legend(loc='upper left')
 
 		ax.set_aspect('equal', adjustable='box')
 
+		plt.axis('off')
+		plt.savefig("filename.png", transparent=True)
 		# Merge all in one figure
 		plt.show()
 
