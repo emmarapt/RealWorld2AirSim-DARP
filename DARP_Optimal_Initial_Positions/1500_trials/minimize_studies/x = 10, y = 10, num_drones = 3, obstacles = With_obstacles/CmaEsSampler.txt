@@ -1,0 +1,3612 @@
+Best trial: 23 
+Best value: 22.0 
+Best param: {'p0': 40, 'p1': 45, 'p2': 55}:
+Best trial: 128 
+Best value: 22.0 
+Best param: {'p0': 37, 'p1': 25, 'p2': 73}:
+Best trial: 135 
+Best value: 22.0 
+Best param: {'p0': 50, 'p1': 9, 'p2': 88}:
+Best trial: 169 
+Best value: 22.0 
+Best param: {'p0': 50, 'p1': 24, 'p2': 64}:
+Best trial: 196 
+Best value: 22.0 
+Best param: {'p0': 48, 'p1': 25, 'p2': 73}:
+Best trial: 225 
+Best value: 22.0 
+Best param: {'p0': 50, 'p1': 21, 'p2': 77}:
+Best trial: 227 
+Best value: 22.0 
+Best param: {'p0': 51, 'p1': 21, 'p2': 80}:
+Best trial: 242 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 250 
+Best value: 22.0 
+Best param: {'p0': 48, 'p1': 23, 'p2': 73}:
+Best trial: 262 
+Best value: 22.0 
+Best param: {'p0': 48, 'p1': 23, 'p2': 73}:
+Best trial: 268 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 24, 'p2': 73}:
+Best trial: 273 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 24, 'p2': 73}:
+Best trial: 279 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 281 
+Best value: 22.0 
+Best param: {'p0': 48, 'p1': 23, 'p2': 72}:
+Best trial: 290 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 292 
+Best value: 22.0 
+Best param: {'p0': 48, 'p1': 23, 'p2': 73}:
+Best trial: 295 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 298 
+Best value: 22.0 
+Best param: {'p0': 48, 'p1': 23, 'p2': 72}:
+Best trial: 299 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 24, 'p2': 73}:
+Best trial: 300 
+Best value: 22.0 
+Best param: {'p0': 48, 'p1': 24, 'p2': 73}:
+Best trial: 302 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 304 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 305 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 24, 'p2': 73}:
+Best trial: 307 
+Best value: 22.0 
+Best param: {'p0': 48, 'p1': 23, 'p2': 72}:
+Best trial: 308 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 24, 'p2': 73}:
+Best trial: 309 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 310 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 311 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 312 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 24, 'p2': 73}:
+Best trial: 313 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 315 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 316 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 317 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 318 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 319 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 320 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 321 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 322 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 24, 'p2': 73}:
+Best trial: 327 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 328 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 331 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 332 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 333 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 334 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 73}:
+Best trial: 335 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 22, 'p2': 72}:
+Best trial: 337 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 338 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 341 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 342 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 343 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 344 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 345 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 346 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 347 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 349 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 350 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 352 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 353 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 354 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 355 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 356 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 357 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 358 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 359 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 360 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 361 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 362 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 363 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 364 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 365 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 366 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 367 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 368 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 369 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 370 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 371 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 372 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 373 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 374 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 375 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 376 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 377 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 378 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 379 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 380 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 381 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 382 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 383 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 384 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 385 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 386 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 387 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 388 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 389 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 390 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 391 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 392 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 393 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 394 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 395 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 396 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 397 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 398 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 399 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 400 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 401 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 402 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 403 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 404 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 405 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 406 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 407 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 408 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 409 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 410 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 411 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 412 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 413 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 414 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 415 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 416 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 417 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 418 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 419 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 420 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 421 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 422 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 423 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 424 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 425 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 426 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 427 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 428 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 429 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 430 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 431 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 432 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 433 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 434 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 435 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 436 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 437 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 438 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 439 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 440 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 441 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 442 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 443 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 444 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 445 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 446 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 447 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 448 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 449 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 450 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 451 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 452 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 453 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 454 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 455 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 456 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 457 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 458 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 459 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 460 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 461 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 462 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 463 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 464 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 465 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 466 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 467 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 468 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 469 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 470 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 471 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 472 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 473 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 474 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 475 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 476 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 477 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 478 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 479 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 480 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 481 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 482 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 483 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 484 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 485 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 486 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 487 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 488 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 489 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 490 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 491 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 492 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 493 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 494 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 495 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 496 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 497 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 498 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 499 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 500 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 501 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 502 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 503 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 504 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 505 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 506 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 507 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 508 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 509 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 510 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 511 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 512 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 513 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 514 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 515 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 516 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 517 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 518 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 519 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 520 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 521 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 522 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 523 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 524 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 525 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 526 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 527 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 528 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 529 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 530 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 531 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 532 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 533 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 534 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 535 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 536 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 537 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 538 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 539 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 540 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 541 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 542 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 543 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 544 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 545 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 546 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 547 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 548 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 549 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 550 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 551 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 552 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 553 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 554 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 555 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 556 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 557 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 558 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 559 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 560 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 561 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 562 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 563 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 564 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 565 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 566 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 567 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 568 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 569 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 570 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 571 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 572 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 573 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 574 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 575 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 576 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 577 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 578 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 579 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 580 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 581 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 582 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 583 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 584 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 585 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 586 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 587 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 588 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 589 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 590 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 591 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 592 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 593 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 594 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 595 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 596 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 597 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 598 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 599 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 600 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 601 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 602 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 603 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 604 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 605 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 606 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 607 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 608 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 609 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 610 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 611 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 612 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 613 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 614 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 615 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 616 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 617 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 618 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 619 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 620 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 621 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 622 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 623 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 624 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 625 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 626 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 627 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 628 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 629 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 630 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 631 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 632 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 633 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 634 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 635 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 636 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 637 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 638 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 639 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 640 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 641 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 642 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 643 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 644 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 645 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 646 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 647 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 648 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 649 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 650 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 651 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 652 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 653 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 654 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 655 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 656 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 657 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 658 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 659 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 660 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 661 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 662 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 663 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 664 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 665 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 666 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 667 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 668 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 669 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 670 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 671 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 672 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 673 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 674 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 675 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 676 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 677 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 678 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 679 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 680 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 681 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 682 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 683 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 684 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 685 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 686 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 687 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 688 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 689 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 690 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 691 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 692 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 693 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 694 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 695 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 696 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 697 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 698 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 699 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 700 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 701 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 702 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 703 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 704 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 705 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 706 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 707 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 708 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 709 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 710 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 711 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 712 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 713 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 714 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 715 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 716 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 717 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 718 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 719 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 720 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 721 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 722 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 723 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 724 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 725 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 726 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 727 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 728 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 729 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 730 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 731 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 732 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 733 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 734 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 735 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 736 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 737 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 738 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 739 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 740 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 741 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 742 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 743 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 744 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 745 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 746 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 747 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 748 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 749 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 750 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 751 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 752 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 753 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 754 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 755 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 756 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 757 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 758 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 759 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 760 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 761 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 762 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 763 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 764 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 765 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 766 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 767 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 768 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 769 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 770 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 771 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 772 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 773 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 774 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 775 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 776 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 777 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 778 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 779 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 780 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 781 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 782 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 783 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 784 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 785 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 786 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 787 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 788 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 789 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 790 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 791 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 792 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 793 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 794 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 795 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 796 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 797 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 798 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 799 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 800 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 801 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 802 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 803 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 804 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 805 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 806 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 807 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 808 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 809 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 810 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 811 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 812 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 813 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 814 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 815 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 816 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 817 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 818 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 819 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 820 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 821 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 822 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 823 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 824 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 825 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 826 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 827 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 828 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 829 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 830 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 831 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 832 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 833 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 834 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 835 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 836 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 837 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 838 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 839 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 840 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 841 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 842 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 843 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 844 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 845 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 846 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 847 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 848 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 849 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 850 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 851 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 852 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 853 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 854 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 855 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 856 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 857 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 858 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 859 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 860 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 861 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 862 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 863 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 864 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 865 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 866 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 867 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 868 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 869 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 870 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 871 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 872 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 873 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 874 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 875 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 876 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 877 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 878 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 879 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 880 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 881 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 882 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 883 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 884 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 885 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 886 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 887 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 888 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 889 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 890 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 891 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 892 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 893 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 894 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 895 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 896 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 897 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 898 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 899 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 900 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 901 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 902 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 903 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 904 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 905 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 906 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 907 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 908 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 909 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 910 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 911 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 912 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 913 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 914 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 915 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 916 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 917 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 918 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 919 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 920 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 921 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 922 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 923 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 924 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 925 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 926 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 927 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 928 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 929 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 930 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 931 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 932 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 933 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 934 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 935 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 936 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 937 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 938 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 939 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 940 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 941 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 942 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 943 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 944 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 945 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 946 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 947 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 948 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 949 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 950 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 951 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 952 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 953 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 954 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 955 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 956 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 957 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 958 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 959 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 960 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 961 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 962 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 963 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 964 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 965 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 966 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 967 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 968 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 969 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 970 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 971 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 972 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 973 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 974 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 975 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 976 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 977 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 978 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 979 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 980 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 981 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 982 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 983 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 984 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 985 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 986 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 987 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 988 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 989 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 990 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 991 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 992 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 993 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 994 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 995 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 996 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 997 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 998 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 999 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1000 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1001 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1002 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1003 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1004 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1005 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1006 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1007 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1008 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1009 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1010 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1011 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1012 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1013 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1014 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1015 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1016 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1017 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1018 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1019 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1020 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1021 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1022 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1023 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1024 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1025 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1026 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1027 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1028 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1029 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1030 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1031 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1032 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1033 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1034 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1035 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1036 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1037 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1038 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1039 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1040 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1041 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1042 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1043 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1044 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1045 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1046 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1047 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1048 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1049 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1050 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1051 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1052 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1053 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1054 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1055 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1056 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1057 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1058 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1059 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1060 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1061 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1062 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1063 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1064 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1065 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1066 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1067 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1068 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1069 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1070 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1071 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1072 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1073 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1074 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1075 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1076 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1077 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1078 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1079 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1080 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1081 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1082 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1083 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1084 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1085 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1086 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1087 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1088 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1089 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1090 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1091 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1092 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1093 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1094 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1095 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1096 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1097 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1098 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1099 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1100 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1101 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1102 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1103 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1104 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1105 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1106 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1107 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1108 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1109 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1110 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1111 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1112 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1113 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1114 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1115 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1116 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1117 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1118 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1119 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1120 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1121 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1122 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1123 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1124 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1125 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1126 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1127 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1128 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1129 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1130 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1131 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1132 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1133 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1134 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1135 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1136 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1137 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1138 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1139 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1140 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1141 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1142 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1143 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1144 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1145 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1146 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1147 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1148 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1149 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1150 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1151 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1152 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1153 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1154 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1155 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1156 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1157 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1158 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1159 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1160 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1161 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1162 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1163 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1164 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1165 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1166 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1167 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1168 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1169 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1170 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1171 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1172 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1173 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1174 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1175 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1176 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1177 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1178 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1179 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1180 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1181 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1182 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1183 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1184 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1185 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1186 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1187 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1188 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1189 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1190 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1191 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1192 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1193 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1194 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1195 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1196 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1197 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1198 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1199 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1200 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1201 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1202 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1203 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1204 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1205 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1206 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1207 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1208 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1209 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1210 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1211 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1212 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1213 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1214 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1215 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1216 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1217 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1218 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1219 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1220 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1221 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1222 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1223 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1224 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1225 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1226 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1227 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1228 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1229 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1230 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1231 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1232 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1233 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1234 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1235 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1236 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1237 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1238 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1239 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1240 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1241 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1242 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1243 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1244 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1245 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1246 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1247 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1248 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1249 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1250 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1251 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1252 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1253 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1254 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1255 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1256 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1257 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1258 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1259 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1260 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1261 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1262 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1263 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1264 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1265 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1266 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1267 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1268 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1269 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1270 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1271 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1272 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1273 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1274 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1275 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1276 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1277 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1278 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1279 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1280 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1281 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1282 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1283 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1284 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1285 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1286 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1287 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1288 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1289 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1290 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1291 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1292 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1293 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1294 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1295 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1296 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1297 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1298 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1299 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1300 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1301 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1302 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1303 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1304 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1305 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1306 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1307 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1308 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1309 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1310 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1311 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1312 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1313 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1314 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1315 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1316 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1317 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1318 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1319 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1320 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1321 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1322 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1323 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1324 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1325 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1326 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1327 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1328 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1329 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1330 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1331 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1332 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1333 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1334 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1335 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1336 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1337 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1338 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1339 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1340 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1341 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1342 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1343 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1344 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1345 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1346 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1347 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1348 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1349 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1350 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1351 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1352 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1353 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1354 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1355 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1356 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1357 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1358 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1359 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1360 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1361 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1362 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1363 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1364 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1365 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1366 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1367 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1368 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1369 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1370 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1371 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1372 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1373 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1374 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1375 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1376 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1377 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1378 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1379 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1380 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1381 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1382 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1383 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1384 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1385 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1386 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1387 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1388 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1389 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1390 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1391 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1392 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1393 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1394 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1395 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1396 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1397 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1398 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1399 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1400 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1401 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1402 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1403 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1404 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1405 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1406 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1407 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1408 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1409 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1410 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1411 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1412 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1413 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1414 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1415 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1416 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1417 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1418 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1419 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1420 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1421 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1422 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1423 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1424 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1425 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1426 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1427 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1428 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1429 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1430 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1431 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1432 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1433 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1434 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1435 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1436 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1437 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1438 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1439 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1440 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1441 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1442 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1443 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1444 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1445 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1446 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1447 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1448 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1449 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1450 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1451 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1452 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1453 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1454 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1455 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1456 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1457 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1458 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1459 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1460 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1461 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1462 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1463 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1464 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1465 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1466 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1467 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1468 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1469 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1470 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1471 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1472 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1473 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1474 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1475 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1476 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1477 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1478 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1479 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1480 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1481 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1482 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1483 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1484 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1485 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1486 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1487 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1488 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1489 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1490 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1491 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1492 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1493 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1494 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1495 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1496 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1497 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1498 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:
+Best trial: 1499 
+Best value: 22.0 
+Best param: {'p0': 49, 'p1': 23, 'p2': 72}:

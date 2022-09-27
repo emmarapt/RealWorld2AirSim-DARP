@@ -1,0 +1,24 @@
+Best trial: 188 
+Best value: 16.0 
+Best param: {'p0': 65, 'p1': 45, 'p2': 1, 'p3': 40, 'p4': 69, 'p5': 96}:
+Best trial: 235 
+Best value: 16.0 
+Best param: {'p0': 14, 'p1': 60, 'p2': 63, 'p3': 12, 'p4': 82, 'p5': 33}:
+Best trial: 289 
+Best value: 16.0 
+Best param: {'p0': 15, 'p1': 39, 'p2': 46, 'p3': 45, 'p4': 13, 'p5': 61}:
+Best trial: 317 
+Best value: 16.0 
+Best param: {'p0': 31, 'p1': 9, 'p2': 8, 'p3': 89, 'p4': 95, 'p5': 80}:
+Best trial: 410 
+Best value: 16.0 
+Best param: {'p0': 57, 'p1': 5, 'p2': 80, 'p3': 89, 'p4': 29, 'p5': 37}:
+Best trial: 412 
+Best value: 16.0 
+Best param: {'p0': 51, 'p1': 14, 'p2': 96, 'p3': 29, 'p4': 61, 'p5': 71}:
+Best trial: 469 
+Best value: 16.0 
+Best param: {'p0': 69, 'p1': 41, 'p2': 0, 'p3': 42, 'p4': 77, 'p5': 67}:
+Best trial: 477 
+Best value: 16.0 
+Best param: {'p0': 79, 'p1': 20, 'p2': 48, 'p3': 72, 'p4': 25, 'p5': 55}:

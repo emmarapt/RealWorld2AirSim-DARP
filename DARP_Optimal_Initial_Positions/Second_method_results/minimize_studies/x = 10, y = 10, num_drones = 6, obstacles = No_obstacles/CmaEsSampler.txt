@@ -1,0 +1,3 @@
+Best trial: 179 
+Best value: 13.0 
+Best param: {'p0': 56, 'p1': 29, 'p2': 57, 'p3': 97, 'p4': 59, 'p5': 37}:
