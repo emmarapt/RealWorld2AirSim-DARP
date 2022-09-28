@@ -4,9 +4,9 @@ import argparse
 import random
 import numpy as np
 import cProfile
-from airlearning_runner import run_airlearning
-from airsim_runner import run_airsim
-from real_world_parameter_parser import real_world
+from SimWorld.airlearning_runner import run_airlearning
+from SimWorld.airsim_runner import run_airsim
+from RealWorld.real_world_parameter_parser import real_world
 from RealWorld.handleGeo.GridPathsToNED import GridPathsToNED
 from RealWorld.handleGeo import Dist
 from RealWorld.visualizeNEDPaths.visualizeNEDPaths import PlotNEDPaths
@@ -100,13 +100,46 @@ def run_experiment(optimal_init_pos, number_of_trials, AirSim, AirLearning):
     PlotNEDPaths(real_world_parameters.NED_Coords, real_world_parameters.obstNED, real_world_parameters.droneNo,
                  WaypointsNED, init_posNED, optimal_init_pos).plot()
 
+    # Write data from server on .txt files
+    # file_init_posNED = open("init_posNED.txt", "w")
+    # file_waypointsNED = open("WaypointsNED.txt", "w")
+    # for i in range(real_world_parameters.droneNo):
+    #     file_init_posNED.write(''.join('{}, {}').format(init_posNED[i][0], init_posNED[i][1]))
+    #     file_init_posNED.write('\n')
+    #     for j in range(len(WaypointsNED[i])):
+    #         file_waypointsNED.write(''.join('{}, {}, {}').format(i, WaypointsNED[i][j][0], WaypointsNED[i][j][1]))
+    #         file_waypointsNED.write('\n')
+    # file_waypointsNED.close()
+    # file_init_posNED.close()
+
+    # """Read data from server"""
+    # init_posNED_server = []
+    # WaypointsNED_server = [[] for _ in range(real_world_parameters.droneNo)]
+    # WaypointsNED_helper = []
+    # init_posNED_helper = []
+    #
+    # file_data = open('init_posNED_50000_large.txt', 'r')
+    # lines = file_data.readlines()
+    # for line in lines:
+    #     init_posNED_helper.append(line.strip().split(", "))
+    # for WP in init_posNED_helper:
+    #     init_posNED_server.append([float(WP[0]), float(WP[1])])
+    #
+    # file_data_ = open('WaypointsNED_50000_large.txt', 'r')
+    # lines = file_data_.readlines()
+    # for line in lines:
+    #     WaypointsNED_helper.append(line.strip().split(", "))
+    # for WP in WaypointsNED_helper:
+    #     WaypointsNED_server[int(WP[0])].append([float(WP[1]), float(WP[2])])
 
     # Choose your simulator ..
     if AirSim:
         run_airsim(real_world_parameters, init_posNED, WaypointsNED)
 
     elif AirLearning:
-        run_airlearning(real_world_parameters, init_posNED, WaypointsNED)
+        # run_airlearning(real_world_parameters, init_posNED, WaypointsNED)
+        run_airlearning(real_world_parameters, init_posNED_server, WaypointsNED_server)
+
 
 
 def initializeDARPGrid(randomInitPos, l, m, initialPos, megaNodes, theta, shiftX, shiftY, droneNo):

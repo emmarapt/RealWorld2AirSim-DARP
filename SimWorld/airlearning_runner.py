@@ -1,34 +1,41 @@
-"""Class for utilizing AirSim for Autonomous UAV-based Coverage Path Planning operations"""
+"""Class for utilizing AirLearning-UE4 with AirSim plugin for Autonomous UAV-based Coverage Path Planning operations"""
 
-from simulation_world_parameter_parser import simulation_world
-from datetime import datetime
-import time
-import threading
+from SimWorld.simulation_world_parameter_parser import simulation_world
+import sys
+
+sys.path.append("D:\\airlearning-ue4\AirSim\PythonClient")
 import airsim
+import threading
 import numpy as np
+import time
 
 
-def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
-
-    # connect to the AirSim simulator
+def run_airlearning(real_world_parameters, init_posNED, WaypointsNED):
+    """AirLearning-UE4 does not provide simAddVehicle API - Add manually the number of drones """
     # connect to Drone client
-
-    client = airsim.MultirotorClient()
+    # client = airsim.MultirotorClient()
+    client = airsim.MultirotorClient(ip="127.0.0.1")
     client.confirmConnection()
 
     # enable Drone1 - default drone when opening AirSim
     client.enableApiControl(True, "Drone1")
     client.armDisarm(True, "Drone1")
 
+    # enable Drone1 - default drone when opening AirSim
+    client.enableApiControl(True, "Drone2")
+    client.armDisarm(True, "Drone2")
+
+    # enable Drone1 - default drone when opening AirSim
+    client.enableApiControl(True, "Drone3")
+    client.armDisarm(True, "Drone3")
 
     simulation_world_parameters = simulation_world()
     velocity, distance_threshold, corner_radius = simulation_world_parameters.get_mission_parameters()
 
     def GetMultirotorState(DroneName):
         getdata = client.getMultirotorState(DroneName)
-        time.sleep(0.1)  # sleep to avoid BufferError
+        # time.sleep(0.1)  # sleep to avoid BufferError
         return getdata
-
 
     class Thread_class(threading.Thread):
         def __init__(self, running):
@@ -50,11 +57,6 @@ def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
 
             for i in range(real_world_parameters.droneNo):
                 try:
-                    # calculate power consumption for each drone
-                    # rotors = GetRotorState('Drone{}'.format(i + 1))
-                    # print(rotors)
-                    # power_ = power_consumed.estimated_power(i, rotors)
-                    # print("Current power consumption for drone{} is {}".format(i + 1, power_))
 
                     # get drone states
                     getpose = GetMultirotorState('Drone{}'.format(i + 1))
@@ -73,6 +75,10 @@ def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
                         print("WPs to go for Drone{}:".format(i + 1), len(path_drone[i]))
 
                     if len(path_drone[i]) == 0:
+                        """ -------------------------- Get Trip status -------------------------- """
+                        get_Trip_Stats_end_path = client.getTripStats('Drone{}'.format(i + 1))
+
+
                         # get_time = client.getMultirotorState('Drone{}'.format(i + 1))
                         end_date_time = datetime.fromtimestamp(getpose.timestamp // 1000000000)
                         print('Last WP !! --- Drone{} ends its path at {} ---'.format(i + 1,
@@ -83,13 +89,19 @@ def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
 
                         # write execution time in .txt
                         simulation_world_parameters.file_exec_time.write(
-                            ''.join('Overall execution time for Drone{} is {} sec'.format(i + 1, Execution_time)))
+                            ''.join('Overall execution time for Drone{} is {} sec'.format(i + 1,
+                                                                                          get_Trip_Stats_end_path.flight_time - get_Trip_Stats_start_path.flight_time)))
                         simulation_world_parameters.file_exec_time.write(''.join('\n'))
 
-                        # # write power consumption in .txt
-                        # final_estimated_power_ = power_consumed.final_estimated_power()
-                        # file_power_consumed.write(''.join('Power Consumed for Drone{} is {} watt'.format(i + 1, final_estimated_power_[i])))
-                        # file_power_consumed.write(''.join('\n'))
+                        simulation_world_parameters.file_power_consumed.write(
+                            ''.join('Overall energy consumption for Drone{} is {} watt'.format(i + 1,
+                                                                                               get_Trip_Stats_end_path.energy_consumed - get_Trip_Stats_start_path.energy_consumed)))
+                        simulation_world_parameters.file_power_consumed.write(''.join('\n'))
+
+                        simulation_world_parameters.file_distance_traveled.write(''.join(
+                            'Overall distance traveled for Drone{} is {} meters'.format(i + 1,
+                                                                                        get_Trip_Stats_end_path.distance_traveled - get_Trip_Stats_start_path.distance_traveled)))
+                        simulation_world_parameters.file_distance_traveled.write(''.join('\n'))
 
                     if ned_dist < corner_radius:  # Corner Radius MODE
                         resulting_path = client.moveOnPathAsync(path_drone[i], 1, 500,
@@ -107,42 +119,21 @@ def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
                 except:
                     pass
 
-
-
-
-
-    # add the corresponding drones
-    for i in range(real_world_parameters.droneNo - 1):
-        done = client.simAddVehicle(vehicle_name="Drone{}".format(i + 2), vehicle_type="simpleflight",
-                                    pose=airsim.Pose(airsim.Vector3r(2 + i, 0, 0), airsim.Quaternionr(0, 0, 0, 0)))
-
-        client.enableApiControl(True, "Drone{}".format(i + 2))
-        client.armDisarm(True, "Drone{}".format(i + 2))
-
     z = - real_world_parameters.altitude
-    # # store waypoints to list
+    # store waypoints to list
     global path_drone
     path_drone = [[] for _ in range(real_world_parameters.droneNo)]
     init_pos_drone = []
 
-    # ------------------ Read path from mCPP ---------------------------------------------------------------------------
+    # ------------------ Read path from mCPP -----------------------------------------------------------------------
 
     for i in range(real_world_parameters.droneNo):
         init_pos_drone.append(airsim.Vector3r(init_posNED[i][0], init_posNED[i][1], -real_world_parameters.altitude))
-        #for j in range(len(WaypointsNED[i][0])):
         for j in range(len(WaypointsNED[i])):
+            # path_No1.append(airsim.Vector3r(WaypointsNED[0][0][i][0] - 120, WaypointsNED[0][0][i][1] - 70, z))
             #path_drone[i].append(airsim.Vector3r(WaypointsNED[i][0][j][0], WaypointsNED[i][0][j][1], z))
             path_drone[i].append(airsim.Vector3r(WaypointsNED[i][j][0], WaypointsNED[i][j][1], z))
 
-    # # Visualize waypoints
-    """ Press T for path visualization"""
-    client.simPlotPoints(points=init_pos_drone, size=50, is_persistent=True)
-    client.simPlotLineStrip(points=path_drone[0], color_rgba=[1.0, 2.0, 0, 0], thickness=30, is_persistent=True)
-    client.simPlotLineStrip(points=path_drone[1], color_rgba=[1.0, -1.0, 1, 1], thickness=30, is_persistent=True)
-    client.simPlotLineStrip(points=path_drone[2], color_rgba=[1, 0, 0, 1], thickness=30, is_persistent=True)
-
-    # for i in range(real_world_parameters.droneNo):
-    #     client.simPlotLineStrip(points=path_drone[i], color_rgba=[1.0, i - 2.0, i - 0, i], thickness=30, is_persistent=True)
 
     airsim.wait_key('Press any key to takeoff')
     for i in range(real_world_parameters.droneNo):
@@ -162,10 +153,9 @@ def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
                                                            airsim.DrivetrainType.ForwardOnly,
                                                            airsim.YawMode(False, 0), 3 + 3 / 2,
                                                            vehicle_name='Drone{}'.format(i + 1))
-
     # Wait until first WP is reached
     movetopath = True
-    # movetopath = [True for _ in range(real_world_parameters.droneNo)]
+    # movetopath = [True for _ in range(droneNo)]
     movetopath_status = [False for _ in range(real_world_parameters.droneNo)]
     while movetopath:
         for i in range(real_world_parameters.droneNo):
@@ -181,11 +171,6 @@ def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
                 ned_dist = np.linalg.norm(current_ned - nextWP_ned)
 
                 if ned_dist < distance_threshold:
-                    # # start measuring execution time
-                    #
-                    # get_time = client.getMultirotorState('Drone{}'.format(i + 1))
-                    # from datetime import datetime
-
                     del path_drone[i][0]
                     movetopath_status[i] = True
 
@@ -198,14 +183,17 @@ def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
                     # print("status", movetopath_status)
                     # print("moveonpath", movetopath)
                     # print("onpath", onpath)
-                # onpath = [True in (elem is False for elem in movetopath) for _ in range(real_world_parameters.droneNo)]
+                    # onpath = [True in (elem is False for elem in movetopath) for _ in range(droneNo)]
 
     for i in range(real_world_parameters.droneNo):
         get_time = client.getMultirotorState('Drone{}'.format(i + 1))
+        from datetime import datetime
 
         start_date_time = datetime.fromtimestamp(get_time.timestamp // 1000000000)
         print(" --- First WP !! --- Drone{} starts to follow the path at {} ---".format(i + 1,
                                                                                         start_date_time))
+
+        get_Trip_Stats_start_path = client.getTripStats('Drone{}'.format(i + 1))
 
     # Start Thread for updating the path -- Background process
     Thread_class(True)
@@ -213,35 +201,29 @@ def run_airsim(real_world_parameters, init_posNED, WaypointsNED):
     moveonpath_status = [False for _ in range(real_world_parameters.droneNo)]
     while onpath:
         for i in range(real_world_parameters.droneNo):
+
             if len(path_drone[i]) == 0:
                 moveonpath_status[i] = True
-                # End of execution time
-                # end = time.time()
-
-                # get_time = client.getMultirotorState('Drone{}'.format(i + 1))
-                # end_date_time = datetime.fromtimestamp(get_time.timestamp // 1000000000)
-                # print('Last WP !! --- Drone{} ends to follow the path at {} ---'.format(i + 1,
-                #                                                                         end_date_time - start_date_time))
-                #
-                # # Execution time
-                # Execution_time = end_date_time - start_date_time
-                #
-                # simulation_world_parameters.file_exec_time.write(
-                #     ''.join('Overall execution time for Drone{} is {} sec'.format(i + 1, Execution_time)))
-                # simulation_world_parameters.file_exec_time.write(''.join('\n'))
-                #
-
-                # onpath will be False if any Drone finishes its path
                 onpath = not all(moveonpath_status)
-            # onpath = [False if x == i else x for x in onpath]
 
+    time.sleep(0.5)
+    # Thread_class(False)
+    print('\n')
     # END
-    airsim.wait_key('Press any key to reset to original state')
-    for i in range(real_world_parameters.droneNo):
-        client.armDisarm(False, "Drone{}".format(i + 1))
-        client.reset()
-        # that's enough fun for now. let's quit cleanly
-        client.enableApiControl(False, "Drone{}".format(i + 1))
+    # airsim.wait_key('Press any key to reset to original state')
+    # for i in range(real_world_parameters.droneNo):
+    #     client.armDisarm(False, "Drone{}".format(i + 1))
+    #     client.reset()
+    #
+    #     # that's enough fun for now. let's quit cleanly
+    #     client.enableApiControl(False, "Drone{}".format(i + 1))
     print(
-        " -------------- Overall execution time for every drone is written in the Flight_time.txt ------------------- ")
+        " -------------- Overall execution for every drone is written in the Flight_time.txt ------------------- ")
+    print(
+        " -------------- Overall energy consumption for every drone is written in the Energy_Consumed.txt ------------------- ")
+    print(
+        " -------------- Overall distance traveled for every drone is written in the Distance_Traveled.txt ------------------- ")
+
     simulation_world_parameters.file_exec_time.close()
+    simulation_world_parameters.file_power_consumed.close()
+    simulation_world_parameters.file_distance_traveled.close()

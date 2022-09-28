@@ -27,7 +27,7 @@ class real_world:
         self.real_world_parameters()
 
     def real_world_parameters(self):
-        file = open('inputVariables_test.json')
+        file = open('inputVariables_choosepath_cython.json')
         data = json.load(file)
 
         self.geoCoords = []
@@ -54,8 +54,8 @@ class real_world:
         self.pathsStrictlyInPoly = data['pathsStrictlyInPoly']
         self.optimal_init_pos = data['OptimalInitPos']
 
-        self.randomInitPos = True  # If false define in WGS84 the initialPos of the drones
-        self.notEqualPortions = True
+        self.randomInitPos = False  # If false define in WGS84 the initialPos of the drones
+        self.notEqualPortions = False
         self.initial_positions = []
 
         for i in data['initialPos']:
