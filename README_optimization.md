@@ -1,12 +1,12 @@
 # Optimization documentation
 
-_This README was created as a result of the optimization performed to the Path Planner workload of the CALLISTO project._
+This README was created as a result of the **Cython optimization** performed to the Path Planner workload.
 
 ## Introduction
 
 This README describes the required steps to run the workload with the added modifications to optimize its performance. The full optimization process is explained in the report available here (PENDENT).
 
-## Modifications
+## Cython Modifications
 
 The performed modifications to the original code are the following:
 
@@ -24,10 +24,10 @@ The required steps to set up the modified code are the following:
 - Install python3.9
 - Perform the command `sudo apt-get install python3.9-dev`
 - Install the packages inside the *requirements.txt* file
-- Compile the cython code with the command `cd handleGeo && python3 setup.py build_ext --inplace`
+- Compile the cython code with the command `cd RealWorld\handleGeo && python3 setup.py build_ext --inplace`
 
 ## How to run
 
 The required steps to run the modified code are the following:
 
-- Run the command `python3 ChoosePath.py`
+- Run the command `python main.py`
