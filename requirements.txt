@@ -1,0 +1,7 @@
+scipy==1.8.1
+matplotlib==3.5.2
+optuna==2.10.1
+opencv-python==4.6.0.66
+scikit-learn==1.1.1
+numba==0.55.2
+cython==0.29.30
