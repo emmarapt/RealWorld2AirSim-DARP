@@ -1,0 +1,583 @@
+{
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/master/docs/settings.md",
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "Recording": {
+    "RecordOnMove": false,
+    "RecordInterval": 2,
+    "Folder": "D:/AirSim/Unreal/Environments/AirSimNH/WindowsNoEditor/Records",
+    "Enabled": false
+  },
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 0,
+        "Width": 4320,
+        "Height": 2160,
+        "FOV_Degrees": 90
+      }
+    ],
+    "Gimbal": {
+      "Stabilization": 1,
+      "Pitch": -90,
+      "Roll": 0,
+      "Yaw": 0
+    }
+  },
+  "EnergyModelSettings": {
+    "mass": 2,
+    "mass_coeff": 0.22,
+    "vxy_coeff": -1.526,
+    "axy_coeff": 3.934,
+    "vxy_axy_coeff": 0.968,
+    "vz_coeff": 18.125,
+    "az_coeff": 96.613,
+    "vz_az_coeff": -1.085,
+    "one_coeff": 443.9,
+    "vxy_wxy_coeff": 0
+  },
+  "Vehicles": {
+    "Drone1": {
+      "VehicleType": "SimpleFlight",
+      "X": 0,
+      "Y": 0,
+      "Z": -2,
+      "Yaw": -180,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825,
+          "PressureFactorTau": 3600,
+          "UncorrelatedNoiseSigma": 2.7,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "MyLidar1": {
+          "SensorType": 6,
+          "Enabled": true,
+          "NumberOfChannels": 16,
+          "PointsPerSecond": 10000,
+          "X": 0,
+          "Y": 0,
+          "Z": -1,
+          "Roll": 0,
+          "Pitch": -90,
+          "Yaw": 0,
+          "VerticalFOVUpper": -15,
+          "VerticalFOVLower": -25,
+          "HorizontalFOVStart": -20,
+          "HorizontalFOVEnd": 20,
+          "DrawDebugPoints": false,
+          "DataFrame": "SensorLocalFrame"
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        },
+        "Distance_prop1": {
+          "SensorType": 5,
+          "Enabled": true,
+          "Yaw": 45,
+          "Pitch": 0,
+          "Roll": 0
+        },
+        "Distance_prop2": {
+          "SensorType": 5,
+          "Enabled": true,
+          "Yaw": 135,
+          "Pitch": 0,
+          "Roll": 0
+        },
+        "Distance_front": {
+          "SensorType": 5,
+          "Enabled": true,
+          "Yaw": 0,
+          "Pitch": 0,
+          "Roll": 0
+        },
+        "Distance_down": {
+          "SensorType": 5,
+          "Enabled": true,
+          "Yaw": 0,
+          "Pitch": -90,
+          "Roll": 0
+        }
+      }
+    },
+    "Drone2": {
+      "VehicleType": "SimpleFlight",
+      "X": 406.8747137582199,
+      "Y": 1965.7440822836113,
+      "Z": -1,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        }
+      }
+    },
+    "Drone3": {
+      "VehicleType": "SimpleFlight",
+      "X": 630.1801471401967,
+      "Y": 176.74478954420712,
+      "Z": -2,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        }
+      }
+    },
+    "Drone4": {
+      "VehicleType": "SimpleFlight",
+      "X": 1450.434697625712,
+      "Y": 1965.5605871063278,
+      "Z": -2,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        }
+      }
+    },
+    "Drone5": {
+      "VehicleType": "SimpleFlight",
+      "X": 1301.394020325488,
+      "Y": 2189.2067972461164,
+      "Z": -2,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        }
+      }
+    },
+    "Drone6": {
+      "VehicleType": "SimpleFlight",
+      "X": 2195.8215793041145,
+      "Y": 0,
+      "Z": 1890.889520274876,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        }
+      }
+    },
+    "Drone7": {
+      "VehicleType": "SimpleFlight",
+      "X": 1152.2615954366224,
+      "Y": 1891.0730154521596,
+      "Z": -2,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        }
+      }
+    },
+    "Drone8": {
+      "VehicleType": "SimpleFlight",
+      "X": 183.2678240135633,
+      "Y": 2040.3234015264215,
+      "Z": -2,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        }
+      }
+    },
+    "Drone9": {
+      "VehicleType": "SimpleFlight",
+      "X": 1151.9470322755653,
+      "Y":  102.11304310788746,
+      "Z": -2,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        }
+      }
+    },
+    "Drone10": {
+      "VehicleType": "SimpleFlight",
+      "X": 630.5078170996313, 
+      "Y": 2040.2447607361573,
+      "Z": -1,
+      "AutoCreate": true,
+      "Sensors": {
+        "Imu": {
+          "SensorType": 2,
+          "Enabled": true,
+          "AngularRandomWalk": 0.3,
+          "GyroBiasStabilityTau": 500,
+          "GyroBiasStability": 4.6,
+          "VelocityRan domWalk": 0.24,
+          "AccelBiasStabilityTau": 800,
+          "AccelBiasStability": 36
+        },
+        "Barometer": {
+          "SensorType": 1,
+          "Enabled": true,
+          "PressureFactorSigma": 0.0001825
+        },
+        "Gps": {
+          "SensorType": 3,
+          "Enabled": true,
+          "EphTimeConstant": 0.9,
+          "EpvTimeConstant": 0.9,
+          "EphInitial": 25,
+          "EpvInitial": 25,
+          "EphFinal": 0.1,
+          "EpvFinal": 0.1,
+          "EphMin3d": 3,
+          "EphMin2d": 4,
+          "UpdateLatency": 0.2,
+          "UpdateFrequency": 50,
+          "StartupDelay": 1
+        },
+        "Magnetometer": {
+          "SensorType": 4,
+          "Enabled": true,
+          "NoiseSigma": 0.005,
+          "ScaleFactor": 1,
+          "NoiseBias": 0,
+          "UpdateLatency": 0,
+          "UpdateFrequency": 50,
+          "StartupDelay": 0
+        }
+      }
+    }
+  }
+}
