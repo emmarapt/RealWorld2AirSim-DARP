@@ -117,3 +117,31 @@ By choosing to run AirLearning, each UAV will automatically follow the extracted
 ![](https://github.com/emmarapt/RealWorld2AirSim-DARP/blob/main/gifs/AirLearning.gif)
 
 
+<!-- ############################################### -->
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/emmarapt/RealWorld2AirSim-DARP/blob/main/LICENSE) for more information.
+
+
+<!-- ############################################### -->
+<!-- CONTACT -->
+## Contact
+
+Aliki Stefanopoulou - [github](https://github.com/alice-st) - alikstef1@ee.duth.gr
+
+Emmanuel K. Raptis - [github](https://github.com/emmarapt) - emmarapt@iti.gr
+
+
+<!-- ############################################### -->
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+This project has received funding from the European Commission under the European Union's Horizon 2020 research and innovation programme under grant agreement no 883302 (ISOLA).
+
+
+<!-- ############################################### -->
+<!-- REFERENCES -->
+## Cite As:
+
+Not published yet.
+
