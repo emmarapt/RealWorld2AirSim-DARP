@@ -142,6 +142,17 @@ This project has received funding from the European Commission under the Europea
 <!-- ############################################### -->
 <!-- REFERENCES -->
 ## Cite As:
+*Stefanopoulou, A., Raptis, E.K., Apostolidis, S.D. et al. Improving time and energy efficiency in multi-UAV coverage operations by optimizing the UAVs’ initial positions. Int J Intell Robot Appl (2024).*
 
-Not published yet.
+[[Link](https://link.springer.com/article/10.1007/s41315-024-00333-2)]
 
+ ```bibtex
+@article{stefanopoulou2024improving,
+  title={Improving time and energy efficiency in multi-UAV coverage operations by optimizing the UAVs’ initial positions},
+  author={Stefanopoulou, Aliki and Raptis, Emmanuel K and Apostolidis, Savvas D and Gkelios, Socratis and Kapoutsis, Athanasios Ch and Chatzichristofis, Savvas A and Vrochidis, Stefanos and Kosmatopoulos, Elias B},
+  journal={International Journal of Intelligent Robotics and Applications},
+  pages={1--19},
+  year={2024},
+  publisher={Springer}
+}
+  ```
