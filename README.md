@@ -5,7 +5,7 @@
 This project is a multi-robot coverage path planning module(mCPP) that utlizes [DARP](https://github.com/alice-st/DARP/tree/main) algorithm to cover an area of interest with prior-defined NoFly zones/obstacles in WGS84 system. The implemented algorithm is also capable of providing optimal initial positions for a team of mobile robots in order to efficiently cope with real-life multi-UAV coverage missions, utilizing [DARP_Optimal_Initial_Positions](https://github.com/alice-st/DARP_Optimal_Initial_Positions/tree/main). RealWorld2AirSim-DARP can provide paths through turn-waypoints which can be used either in a real world or in a semi-realistic scenarios by utilizing both [AirSim](https://microsoft.github.io/AirSim/) and [AirLearning](https://github.com/harvard-edge/AirLearning) simulators with an autonomous navigation scheme.
 
 An on-line instance of an end-to-end mission planner utilizing this mCPP module can be found here:
-http://choosepath.ddns.net/
+[http://choosepath.ddns.net/](https://choosepath.org/)
 
 ## Input/Output:
 
